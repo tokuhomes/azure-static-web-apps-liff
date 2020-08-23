@@ -29,6 +29,7 @@
         "Orta.vscode-jest",
         "firsttris.vscode-jest-runner",
         "esbenp.prettier-vscode",
+	"ms-vsliveshare.vsliveshare-pack",
         "hediet.vscode-drawio"
 	]
 
