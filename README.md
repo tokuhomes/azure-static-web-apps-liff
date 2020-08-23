@@ -26,6 +26,7 @@ https://docs.microsoft.com/ja-jp/azure/static-web-apps/getting-started?tabs=angu
   e2e_test_job:		
     needs: build_and_deploy_job	
     runs-on: ubuntu-latest
+    name: E2E Test Job
     steps:		
       - uses: actions/checkout@v2
         with:
